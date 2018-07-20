@@ -18,7 +18,7 @@ public class App
     public void TestMethod() {
         var sb = "sb";
         System.out.println(sb);
-
+        System.out.println("niubi");
     }
 
 
