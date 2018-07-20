@@ -11,12 +11,12 @@ public class App
     public static void main( String[] args )
     {
         System.out.println( "Hello World!" );
-        var list = new ArrayList<String>();
+        ArrayList list = new ArrayList<>();
         new App().TestMethod();
     }
 
     public void TestMethod() {
-        var sb = "sb";
+        String sb = "sb";
         System.out.println(sb);
         System.out.println("niubi");
         System.out.println("heheda");
