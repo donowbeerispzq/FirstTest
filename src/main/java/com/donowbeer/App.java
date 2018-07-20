@@ -12,6 +12,13 @@ public class App
     {
         System.out.println( "Hello World!" );
         var list = new ArrayList<String>();
+        new App().TestMethod();
+    }
+
+    public void TestMethod() {
+        var sb = "sb";
+        System.out.println(sb);
+
     }
 
 
