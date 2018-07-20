@@ -19,6 +19,7 @@ public class App
         var sb = "sb";
         System.out.println(sb);
         System.out.println("niubi");
+        System.out.println("heheda");
     }
 
 
